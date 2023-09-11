@@ -1,0 +1,73 @@
+/* Header Area */
+
+.main-header{
+  position: relative;
+  z-index: 2;
+}
+
+/* Footer CSS */
+
+.footer-flex{
+  background-color: black;
+  flex-direction: row;
+}
+
+.footer-padding{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.footer-inner-padding{
+margin: 2%;
+}
+
+.footer-margin{
+  margin-right: 3%;
+
+}
+
+.fotter-headings{
+  font-weight: bold;
+  color: white;
+}
+
+.footer-text{
+  color: rgb(206, 202, 202);
+}
+
+.footer-left{
+flex-basis: 40%;
+  flex: 2;
+  justify-content: center;
+}
+
+.footer-center{
+  flex-basis: 40%;
+  flex: 2;
+  justify-content: center;
+}
+
+.footer-right{
+  flex-basis: 20%;
+  flex: 1;
+  justify-content: center;
+}
+
+.footer-padding{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.footer-icon-color{
+  color: white;
+  size: 20px;
+  padding: 7px;
+}
+
+.footer-email-btn{
+  background: linear-gradient(rgb(75, 75, 165),rgb(130, 130, 219));
+  padding: 8px;
+  position: relative
+}
+
+
